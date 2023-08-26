@@ -1,0 +1,7 @@
+{
+  "package_name": "udemy_ros2_pkg",
+  "non_idl_tuples": [
+    "/home/vboxuser/workspace/ros2_pkg_ws/src/udemy_ros2_pkg:srv/OddEvenCheck.srv",
+    "/home/vboxuser/workspace/ros2_pkg_ws/src/udemy_ros2_pkg:srv/TurnCamera.srv"
+  ]
+}
